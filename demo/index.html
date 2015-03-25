@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Awesome Button</title>
+		<!-- Page style -->
+		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<style>*{margin:0;padding:0}body,html{background-color:#2f2f2f;height:100%;width:100%;text-align:center;font-family:Montserrat}h1{letter-spacing:-1px;margin:0 0 5px;color:#cfcfcf;line-height:32px;font-size:32px;text-shadow:2px 2px 0 rgba(100,100,100,.15)}p{margin:0 0 45px;color:#6a6a6a;}main{display:table;width:100%;height:100%;top:0;left:0}section{display:table-cell;vertical-align:middle}awesome-button{display:inline-block;margin:5px 3px}.use{display:inline-block;margin-top:55px;}</style>
+		<!-- Webcomponents (cross-browser polyfill) -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/0.6.0/webcomponents.min.js"></script>
+		<!-- Polymer -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/polymer/0.5.5/polymer.js"></script>
+		<!-- Awesome Button -->
+		<link async rel="import" href="awesome-button.html"/>
+	</head>
+	<body>
+		<main>
+			<section>
+				<h1>Web components are awesome</h1>
+				<p>and extremely easy to use.</p>
+				<div class="share">
+					<!-- Awesome Button tags -->
+					<awesome-button type="facebook">Share it!</awesome-button>
+					<awesome-button type="plus" sharer>Share it!</awesome-button>
+					<awesome-button type="twitter" sharer>Tweet it!</awesome-button>
+					<awesome-button type="pinterest" sharer>Pin it!</awesome-button>
+					<awesome-button type="github" href="http://github.com/rcaferati/awesome-button">Fork it!</awesome-button>
+				</div>
+				<awesome-button class="use" target="_blank" href="http://caferati.me/labs/awesome-button" type="external">try these buttons on your project</awesome-button>
+			</section>
+		</main>
+	</body>
+</html>
