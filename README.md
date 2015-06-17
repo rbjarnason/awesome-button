@@ -2,6 +2,9 @@
 
 ![awesome-button](http://cdn.caferati.me/images/awesome-button.gif)
 
+![awesome-button](http://cdn.caferati.me/images/awesome-button.png)
+
+
 Cool option to quickly add share buttons (or any kind of buttons) to your projects
 =======================================================================================
 
