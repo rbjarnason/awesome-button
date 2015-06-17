@@ -1,6 +1,6 @@
 # &lt;awesome-button/&gt;#
 
-60 FPS and amazing effects by rendering HTML/CSS in WebGL, framework agnostic
+Cool option to quickly add share buttons (or any kind of buttons) to your projects
 =======================================================================================
 
 ## Live demo
