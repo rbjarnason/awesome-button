@@ -12,15 +12,6 @@ Cool option to quickly add share buttons (or any kind of buttons) to your projec
 
 [Access the live demo here.](http://caferati.me/demo/awesome-button)
 
-## Install
-
-Install the component using [Bower](http://bower.io/):
-
-```sh
-$ bower install awesome-button --save
-```
-Or [download the zip file](https://github.com/rcaferati/awesome-button/archive/master.zip).
-
 ### Quick usage
 
 1. Load the WebComponents polyfill:
@@ -40,6 +31,15 @@ Or [download the zip file](https://github.com/rcaferati/awesome-button/archive/m
 ```html
 <awesome-button type="facebook" sharer>Share it!</awesome-button>
 ```
+
+## Install
+
+Install the component using [Bower](http://bower.io/):
+
+```sh
+$ bower install awesome-button --save
+```
+Or [download the zip file](https://github.com/rcaferati/awesome-button/archive/master.zip).
 
 License
 -------
