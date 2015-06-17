@@ -1,6 +1,6 @@
 # &lt;awesome-button/&gt;#
 
-![awesome-button](http://cdn.caferati.me/images/awesome-button.png)
+![awesome-button](http://cdn.caferati.me/images/awesome-button.gif)
 
 Cool option to quickly add share buttons (or any kind of buttons) to your projects
 =======================================================================================
