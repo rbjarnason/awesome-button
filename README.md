@@ -1,5 +1,7 @@
 # &lt;awesome-button/&gt;#
 
+![awesome-button](http://cdn.caferati.me/images/awesome-button.png)
+
 Cool option to quickly add share buttons (or any kind of buttons) to your projects
 =======================================================================================
 
@@ -14,7 +16,7 @@ Install the component using [Bower](http://bower.io/):
 ```sh
 $ bower install awesome-button --save
 ```
-Or [download the zip file](https://github.com/zenorocha/voice-elements/archive/gh-pages.zip).
+Or [download the zip file](https://github.com/rcaferati/awesome-button/archive/master.zip).
 
 ### Quick usage
 
