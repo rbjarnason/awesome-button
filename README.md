@@ -1,36 +1,33 @@
-# &lt;awesome-button/&gt;#
-
-![awesome-button](http://cdn.caferati.me/images/awesome-button.gif)
-
-![awesome-button](http://cdn.caferati.me/images/awesome-button.png)
-
-
-Cool option to quickly add share buttons (or any kind of buttons) to your projects
-=======================================================================================
+&lt;awesome-button/&gt;
+=================
+The awesome-button Vanilla JS custom element web component is a cool option to quickly add
+share buttons (or any kind of buttons) to your projects.
 
 ## Live demo
 
 [Access the live demo here.](http://caferati.me/demo/awesome-button)
 
+![awesome-button](http://i.imgur.com/JpvfDCJ.gif)
+
 ### Quick usage
 
 1. Load the WebComponents polyfill:
 
-```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/0.7.3/webcomponents.min.js"></script>
-```
+  ```html
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/0.7.3/webcomponents.min.js"></script>
+  ```
 
 2. Import the Awesome-Button:
 
-```html
-<link rel="import" href="/awesome-button.html">
-```
+  ```html
+  <link rel="import" href="/awesome-button.html">
+  ```
 
 3. Use it:
 
-```html
-<awesome-button type="facebook" sharer>Share it!</awesome-button>
-```
+  ```html
+  <awesome-button type="facebook" sharer>Share it!</awesome-button>
+  ```
 
 ## Install
 
