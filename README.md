@@ -7,9 +7,13 @@ share buttons (or any kind of buttons) to your projects.
 
 [Access the live demo here.](http://caferati.me/demo/awesome-button)
 
-![awesome-button](http://i.imgur.com/JpvfDCJ.gif)
+## Browser support
+
+![browser support](http://i.imgur.com/4bMmB5x.png)
 
 ### Quick usage
+
+![awesome-button](http://i.imgur.com/JpvfDCJ.gif)
 
 1. Load the WebComponents polyfill:
 
