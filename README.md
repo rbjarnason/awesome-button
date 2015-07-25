@@ -35,7 +35,7 @@ share buttons (or any kind of buttons) to your projects.
   <awesome-button type="facebook" sharer>Share it!</awesome-button>
   ```
 
-## Install
+## Install or download
 
 Install the component using [Bower](http://bower.io/):
 
