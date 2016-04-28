@@ -423,7 +423,7 @@
 			}
 			function run(tag) {
 				var params = {}
-				var url = encodeURIComponent(tag.getAttribute("href") || window.location.href);
+				var url = encodeURIComponent(tag.getAttribute("targetUrl") || window.location.href);
 				var size = dimensions();
 				switch (tag.getAttribute("type")) {
 					case "facebook":
